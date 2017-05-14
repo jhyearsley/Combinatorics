@@ -1,6 +1,6 @@
 # Combinatorics
 This repo is a place to maintain and document my progress in solving
-some c ombinatorics problems taken from the textbook *Combinatorics Through
+some combinatorics problems taken from the textbook *Combinatorics Through
 Guided Discovery* by Kenneth P. Bogart. The text can be found online for free
 [here](https://math.dartmouth.edu/news-resources/electronic/kpbogart/ComboNoteswHints11-06-04.pdf).
 
